@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # skills-app
 [GraphQL](https://graphql.org/) API built with [Flask](https://graphql.org/), MySQL, [SQLAlchemy](https://www.sqlalchemy.org/), [Graphene](https://graphene-python.org/) and Python 3.7
 
@@ -98,3 +99,7 @@ This is an example query filtering by username and score, projecting only the us
 - [Graphene docs](https://docs.graphene-python.org/en/latest/)
 - [GraphQL vs Rest API architecture](https://medium.com/swlh/graphql-vs-rest-api-architecture-3b95a77512f5)
 
+=======
+# flask_graphql_mysql
+Flask + GraphQL + MySQL + Docker experiment.
+>>>>>>> 5c4796fa7a4cd89654ef6f7bf683bb29c73d6033
